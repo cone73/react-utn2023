@@ -1,3 +1,10 @@
+/* Todo lo que escriba acá
+  se va a ejecutar SIEMPRE
+*/
+:root {
+  --naranja: #F90;
+  --verde: #b3e3b3;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
