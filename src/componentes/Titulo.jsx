@@ -1,4 +1,4 @@
-export default function Titulos () {
+export default function Titulo () {
     // divitis / react fragment
     return (
         <>
