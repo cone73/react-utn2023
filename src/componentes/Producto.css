@@ -1,0 +1,36 @@
+.producto {
+    max-width: 220px;
+    margin: 40px auto;
+
+    background-color: white;
+    padding: 8px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 8px #DDD;
+    text-align: center;
+}
+
+.producto img {
+    /* object-fit: cover;
+    height: 150px; */
+    width: 90%;
+}
+
+.producto-info {
+    text-align: left;
+    border-top: 1px solid #999;
+}
+
+.producto-info h2 {
+    font-size: 24px;
+}
+
+.precio-actual {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.envio-gratis {
+    font-weight: bold;
+    color: green;
+    font-style: italic;
+}
