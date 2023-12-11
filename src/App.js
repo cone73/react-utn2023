@@ -27,7 +27,7 @@ function App() {
       Si el archivo está en /public la ruta se tiene que escribir como si nosotros
       estuvieramos en /public también
       */}
-      <img src="imagenes/gatito.avif" alt="Gatito" />
+      <img src="imagenes/imagen.1.jpg" alt="Gatito" />
     </>
   );
 }
