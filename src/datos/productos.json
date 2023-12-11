@@ -1,0 +1,44 @@
+[
+    {
+        "imagen": "imagenes/potter_lego.webp",
+        "titulo": "¡Lego Harry Potter!",
+        "precio_anterior": 85000,
+        "precio_actual": 45000,
+        "envio_gratis": true
+    },
+    {
+        "imagen": "imagenes/potter_lego2.webp",
+        "titulo": "Lego de Hogsmeade",
+        "precio_anterior": 105000,
+        "precio_actual": 95000,
+        "envio_gratis": false
+    },
+    {
+        "imagen": "imagenes/potter_lego3.webp",
+        "titulo": "Lego de Gringotts",
+        "precio_anterior": 105000,
+        "precio_actual": 95000,
+        "envio_gratis": false
+    },
+    {
+        "imagen": "imagenes/potter_lego4.webp",
+        "titulo": "Lego de Hogwarts",
+        "precio_anterior": 38400,
+        "precio_actual": 10999,
+        "envio_gratis": true
+    },
+    {
+        "imagen": "imagenes/potter_lego5.webp",
+        "titulo": "Lego de Hogwarts",
+        "precio_anterior": 405000,
+        "precio_actual": 195000,
+        "envio_gratis": false
+    },
+    {
+        "imagen": "imagenes/potter_lego.webp",
+        "titulo": "Lego de Hogwarts",
+        "precio_anterior": 205000,
+        "precio_actual": 456000,
+        "envio_gratis": true
+    }
+]

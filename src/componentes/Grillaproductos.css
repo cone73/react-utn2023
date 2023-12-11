@@ -1,0 +1,10 @@
+.grilla {
+    display: grid;
+    /* Grilla de 4 columnas iguales */
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    /* Limitar ancho */
+    max-width: 1050px;
+    /* Centrar y separar hacia arriba y abajo */
+    margin: 20px auto;
+}
