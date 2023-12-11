@@ -2,13 +2,19 @@
 import Titulo from './componentes/Titulo';
 import Ejemplo from './componentes/Ejemplo';
 import Producto from './componentes/Producto';
+import Bucle from './componentes/Bucle';
 import './App.css';
 
 function App() {
   return (
     <>
       {/* La importamos usandola como una etiqueta de cierre */}
-      <Titulo />
+      <Titulo titulo="Hola mundo" subtitulo="Como vas?"/>
+      <Titulo titulo="Segunda seccion" subtitulo="de mi sitio web!"/>
+      <Bucle />
+        {/* Le pasamos las propiedades
+      como si fueran atributos
+      de HTML */}
       <Ejemplo />
       <Producto />
       

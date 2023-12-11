@@ -1,6 +1,7 @@
 import './Producto.css';
 
 export default function Producto () {
+    //Hardcoreando los datos
     const imagen = "imagenes/potter_lego.webp";
     const titulo = "Lego Harry Potter";
     const precio_anterior = 45000;
