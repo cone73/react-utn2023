@@ -1,12 +1,18 @@
 import './Producto.css';
 
-export default function Producto () {
-    //Hardcoreando los datos
-    const imagen = "imagenes/potter_lego.webp";
-    const titulo = "Lego Harry Potter";
-    const precio_anterior = 45000;
-    const precio_actual = 35000;
-    const envio_gratis = true;
+export default function Producto ({
+    imagen,
+    titulo,
+    precio_actual,
+    precio_anterior,
+    envio_gratis,
+}) {
+    // Hardcodeando los datos
+    // const imagen = "imagenes/potter_lego.webp";
+    // const titulo = "Lego Harry Potter";
+    // const precio_anterior = 45000;
+    // const precio_actual = 35000;
+    // const envio_gratis = true;
     // - Botón de "Comprar": HTML_Element
 
     return (
